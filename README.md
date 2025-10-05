@@ -1,11 +1,11 @@
 # Olá! Eu sou a Tatiana 👋
 
-### Developer Full-Stack Júnior
+### Developer Full-Stack Júnior | C#, Java, Python, JavaScript
 
 <p align="left">
-  Sou uma profissional com um percurso que me permitiu aplicar conhecimentos práticos e teóricos em **Full-Stack Development**. A minha **curiosidade técnica** e a **vontade de aprender** são a minha força motri!.
+  Sou uma profissional com um percurso que me permitiu aplicar conhecimentos práticos e teóricos em Full-Stack Development. A minha <b>curiosidade técnica</b> e a <b>vontade de aprender</b> são a minha força motriz.
   
-  Atualmente, dedico-me ao desenvolvimento no **CIS do IPT**, onde foco na **modernização de sistemas** (como a migração de PHP 5.4 para 8.4) e na entrega de soluções web robustas, responsivas e acessíveis.
+  Atualmente, dedico-me ao desenvolvimento no <b>CIS do IPT</b>, onde foco na modernização de sistemas (como a migração de PHP 5.4 para 8.4) e na entrega de soluções web robustas e acessíveis.
 </p>
 
 ---
@@ -33,11 +33,17 @@
 
 ## 📈 Estatísticas do GitHub
 
+---
+
+## 📈 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimikdark&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimikdark&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=440&bg_color=00000000" alt="Estatísticas do GitHub" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimikdark&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimikdark&layout=compact&theme=dark&card_width=440" alt="Linguagens Mais Usadas" />
 </p>
+
+---
 
 ---
 
@@ -45,7 +51,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kimikdark">
-    <img src="https://img.shields.io/badge/LinkedIn-kimldark-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-kimikdark-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:[tatianamendes.contacto@gmail.com]">
     <img src="https://img.shields.io/badge/Email-Entre%20em%20Contacto-red?style=for-the-badge&logo=gmail" />
