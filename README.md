@@ -3,9 +3,8 @@
 ### Developer Full-Stack
 
 <p align="justify">
-  Sou uma profissional orientada para a <b>resolução de problemas</b> e impulsionada pela <b>curiosidade técnica</b>, com um forte empenho no desenvolvimento contínuo de soluções Full-Stack. O meu percurso reflete uma aplicação robusta de conhecimentos teóricos e práticos.
+    Sou uma profissional <b>Full-Stack</b> orientada a resultados e à <b>resolução de problemas</b>, com um foco robusto na aplicação de conhecimento teórico e prático. A minha missão é construir e otimizar soluções de software com <b>rigor técnico e código limpo</b>.
   
-  Atualmente, contribuo ativamente para o <b>Centro de Informática e Sistemas (CIS) do IPT</b>, com foco na <b>modernização e otimização de infraestruturas</b>. A minha experiência inclui a liderança na migração de sistemas críticos de PHP 5.4 para a versão 8.4, garantindo a entrega de experiências web robustas, acessíveis e responsivas.
 </p>
 
 ---
